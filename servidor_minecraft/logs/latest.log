@@ -32,3 +32,14 @@
 [07:44:20] [Server thread/INFO]: Bizcarra joined the game
 [07:44:20] [Server thread/INFO]: Bizcarra lost connection: Disconnected
 [07:44:20] [Server thread/INFO]: Bizcarra left the game
+[07:54:34] [Server thread/INFO]: Stopping the server
+[07:54:34] [Server thread/INFO]: Stopping server
+[07:54:34] [Server thread/INFO]: Saving players
+[07:54:34] [Server thread/INFO]: Saving worlds
+[07:54:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
